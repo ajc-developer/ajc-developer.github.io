@@ -10,7 +10,7 @@ _Effective October 27, 2026_
 
 _Last updated: October 28, 2026_
 
-Dusk ("the app") is made by Sublime Interactive ("we"). This policy explains what information the app uses and why.
+Dusk ("the app") is made by ajc-dev ("we"). This policy explains what information the app uses and why.
 
 ## The short version
 

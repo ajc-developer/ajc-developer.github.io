@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Sublime Interactive
+title: ajc-dev
 ---
 
-# Sublime Interactive
+# ajc-dev
 
-Independent apps by Sublime Interactive.
+Independent apps by ajc-dev.
 
 ## Dusk
 
