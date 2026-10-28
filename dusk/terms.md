@@ -26,7 +26,7 @@ Dusk is provided "as is" and "as available," without warranties of any kind, inc
 
 ## Limitation of liability
 
-To the fullest extent the law allows, Sublime Interactive is not liable for any loss, injury, fine, penalty, or damage that comes from using or relying on Dusk, including any decision about when or where to hunt or fish.
+To the fullest extent the law allows, ajc-dev is not liable for any loss, injury, fine, penalty, or damage that comes from using or relying on Dusk, including any decision about when or where to hunt or fish.
 
 ## Purchases
 
