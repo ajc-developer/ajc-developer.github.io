@@ -8,6 +8,8 @@ permalink: /dusk/privacy/
 
 _Effective October 27, 2026_
 
+_Last updated: October 28, 2026_
+
 Dusk ("the app") is made by Sublime Interactive ("we"). This policy explains what information the app uses and why.
 
 ## The short version
@@ -15,7 +17,7 @@ Dusk ("the app") is made by Sublime Interactive ("we"). This policy explains wha
 * Dusk calculates sunrise, sunset, moon, and feeding times on your phone. It has no accounts, and we run no servers that receive your data.
 * Your location and saved places stay on your device. We never receive them.
 * The free version shows ads from Google AdMob. Google may collect some device data to show and measure those ads, as described below.
-* If you buy Remove Ads, Google Play handles the payment. We never see your card details.
+* If you buy Dusk Pro, Google Play handles the payment. It removes ads and unlocks Red light mode. We never see your card details.
 
 ## Location
 
@@ -23,21 +25,21 @@ If you allow it, Dusk uses your phone's **approximate** location only to calcula
 
 ## Offline use and network access
 
-All of Dusk's features work without an internet connection. The app uses the network only to load ads in the free version and to check your Remove Ads purchase with Google Play.
+All of Dusk's features work without an internet connection. The app uses the network only to load ads in the free version and to check your Dusk Pro purchase with Google Play.
 
 ## Advertising (Google AdMob)
 
-The free version shows ads served by Google AdMob. To show, limit, and measure ads and to prevent fraud, Google may collect and use:
+The free version shows ads served by Google AdMob. Ads are muted. To show, limit, and measure ads and to prevent fraud, Google may collect and use:
 
 * your device's advertising ID
 * your IP address and the approximate location that can be worked out from it
 * basic device and app information, and how you interact with ads
 
-This data goes directly to Google under [Google's privacy policy](https://policies.google.com/privacy). Google explains how it uses data from apps that show its ads [here](https://policies.google.com/technologies/partner-sites). Where the law requires it, including in the EEA and the UK, Dusk asks for your consent before showing personalized ads, and you can change your choice later in the app's Settings. You can also reset or delete your advertising ID in your phone's settings.
+This data goes directly to Google under [Google's privacy policy](https://policies.google.com/privacy). Google explains how it uses data from apps that show its ads [here](https://policies.google.com/technologies/partner-sites). Where the law requires it, including in the EEA and the UK, Dusk asks for ad consent (Google's consent form) before showing personalized ads, and you can change your choice in Settings under Ad privacy. You can also reset or delete your advertising ID in your phone's settings.
 
 ## Purchases
 
-Remove Ads is a one-time purchase processed by Google Play under [Google's privacy policy](https://policies.google.com/privacy). Dusk receives only confirmation that the purchase was made, so it can remove ads and restore the purchase on a new phone. We never receive your payment details.
+Dusk Pro is a one-time purchase processed by Google Play under [Google's privacy policy](https://policies.google.com/privacy). Dusk receives only confirmation that the purchase was made, so it can remove ads, unlock Red light mode and restore the purchase on a new phone. We never receive your payment details.
 
 ## What we don't do
 

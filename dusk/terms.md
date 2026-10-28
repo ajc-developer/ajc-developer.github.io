@@ -8,6 +8,8 @@ permalink: /dusk/terms/
 
 _Effective October 27, 2026_
 
+_Last updated: October 28, 2026_
+
 By using Dusk, you agree to these terms.
 
 ## For planning only
@@ -28,7 +30,7 @@ To the fullest extent the law allows, Sublime Interactive is not liable for any 
 
 ## Purchases
 
-Remove Ads is a one-time purchase through Google Play and is subject to Google Play's terms and refund policies. It removes ads only; all other features are free.
+Dusk Pro is a one-time purchase through Google Play and is subject to Google Play's terms and refund policies. It removes ads and unlocks Red light mode; all solunar features are free.
 
 ## Changes and governing law
 
