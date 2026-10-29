@@ -8,7 +8,7 @@ permalink: /dusk/privacy/
 
 _Effective October 27, 2026_
 
-_Last updated: October 28, 2026_
+_Last updated: October 29, 2026_
 
 Dusk ("the app") is made by ajc-dev ("we"). This policy explains what information the app uses and why.
 
@@ -17,7 +17,7 @@ Dusk ("the app") is made by ajc-dev ("we"). This policy explains what informatio
 * Dusk calculates sunrise, sunset, moon, and feeding times on your phone. It has no accounts, and we run no servers that receive your data.
 * Your location and saved places stay on your device. We never receive them.
 * The free version shows ads from Google AdMob. Google may collect some device data to show and measure those ads, as described below.
-* If you buy Dusk Pro, Google Play handles the payment. It removes ads and unlocks Red light mode. We never see your card details.
+* If you buy Solunar Pro, Google Play handles the payment. It removes ads and unlocks Red light mode. We never see your card details.
 
 ## Location
 
@@ -25,7 +25,7 @@ If you allow it, Dusk uses your phone's **approximate** location only to calcula
 
 ## Offline use and network access
 
-All of Dusk's features work without an internet connection. The app uses the network only to load ads in the free version and to check your Dusk Pro purchase with Google Play.
+All of Dusk's features work without an internet connection. The app uses the network only to load ads in the free version and to check your Solunar Pro purchase with Google Play.
 
 ## Advertising (Google AdMob)
 
@@ -39,7 +39,7 @@ This data goes directly to Google under [Google's privacy policy](https://polici
 
 ## Purchases
 
-Dusk Pro is a one-time purchase processed by Google Play under [Google's privacy policy](https://policies.google.com/privacy). Dusk receives only confirmation that the purchase was made, so it can remove ads, unlock Red light mode and restore the purchase on a new phone. We never receive your payment details.
+Solunar Pro is a one-time purchase processed by Google Play under [Google's privacy policy](https://policies.google.com/privacy). Dusk receives only confirmation that the purchase was made, so it can remove ads, unlock Red light mode and restore the purchase on a new phone. We never receive your payment details.
 
 ## What we don't do
 

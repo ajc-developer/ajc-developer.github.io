@@ -8,7 +8,7 @@ permalink: /dusk/terms/
 
 _Effective October 27, 2026_
 
-_Last updated: October 28, 2026_
+_Last updated: October 29, 2026_
 
 By using Dusk, you agree to these terms.
 
@@ -30,7 +30,7 @@ To the fullest extent the law allows, ajc-dev is not liable for any loss, injury
 
 ## Purchases
 
-Dusk Pro is a one-time purchase through Google Play and is subject to Google Play's terms and refund policies. It removes ads and unlocks Red light mode; all solunar features are free.
+Solunar Pro is a one-time purchase through Google Play and is subject to Google Play's terms and refund policies. It removes ads and unlocks Red light mode; all solunar features are free.
 
 ## Changes and governing law
 
