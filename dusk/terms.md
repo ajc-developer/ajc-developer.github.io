@@ -30,7 +30,7 @@ To the fullest extent the law allows, ajc-dev is not liable for any loss, injury
 
 ## Purchases
 
-Solunar Pro is a one-time purchase through Google Play and is subject to Google Play's terms and refund policies. It removes ads and unlocks Red light mode; all solunar features are free.
+Solunar Pro is a one-time purchase that removes all ads, unlocks Red light mode, and adds home-screen widgets. Sunrise, sunset, moon and feeding times are always free in the app. The purchase is through Google Play and is subject to Google Play's terms and refund policies.
 
 ## Changes and governing law
 

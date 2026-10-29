@@ -16,12 +16,13 @@ Dusk ("the app") is made by ajc-dev ("we"). This policy explains what informatio
 
 * Dusk calculates sunrise, sunset, moon, and feeding times on your phone. It has no accounts, and we run no servers that receive your data.
 * Your location and saved places stay on your device. We never receive them.
+* Widget settings (chosen saved location or follow-app selection) are stored on your device only.
 * The free version shows ads from Google AdMob. Google may collect some device data to show and measure those ads, as described below.
-* If you buy Solunar Pro, Google Play handles the payment. It removes ads and unlocks Red light mode. We never see your card details.
+* Solunar Pro is a one-time purchase that removes all ads, unlocks Red light mode, and adds home-screen widgets. Sunrise, sunset, moon and feeding times are always free in the app. Google Play handles the payment. We never see your card details.
 
 ## Location
 
-If you allow it, Dusk uses your phone's **approximate** location only to calculate times for where you are. You can also enter a place by hand instead. Your location and saved places are stored only on your device, and Dusk never sends them to us. You can turn off location access at any time in your phone's settings.
+If you allow it, Dusk uses your phone's **approximate** location only to calculate times for where you are. You can also enter a place by hand instead. Your location and saved places are stored only on your device, and Dusk never sends them to us. Widget settings (chosen saved location or follow-app selection) are stored on your device only. You can turn off location access at any time in your phone's settings.
 
 ## Offline use and network access
 
@@ -39,7 +40,7 @@ This data goes directly to Google under [Google's privacy policy](https://polici
 
 ## Purchases
 
-Solunar Pro is a one-time purchase processed by Google Play under [Google's privacy policy](https://policies.google.com/privacy). Dusk receives only confirmation that the purchase was made, so it can remove ads, unlock Red light mode and restore the purchase on a new phone. We never receive your payment details.
+Solunar Pro is a one-time purchase that removes all ads, unlocks Red light mode, and adds home-screen widgets. Sunrise, sunset, moon and feeding times are always free in the app. The purchase is processed by Google Play under [Google's privacy policy](https://policies.google.com/privacy). Dusk receives only confirmation that the purchase was made, so it can remove all ads, unlock Red light mode, add home-screen widgets, and restore the purchase on a new phone. We never receive your payment details.
 
 ## What we don't do
 
