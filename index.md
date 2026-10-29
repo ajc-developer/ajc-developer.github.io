@@ -7,7 +7,7 @@ title: ajc-dev
 
 Independent apps by ajc-dev.
 
-## Dusk
+## Artemis Solunar
 
 Offline sunrise, sunset, moon, and solunar feeding times for hunting and fishing.
 
